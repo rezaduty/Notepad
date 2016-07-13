@@ -1,0 +1,4 @@
+baraye kar ba load va save in text
+az IO;
+File.RadAllTest(esm file mord nazar);
+File.WriteAllText(esm file baraye save,esm file mored nazar ke mikhahim chiz hayash ra benevisim)
